@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -7,3 +8,7 @@ naudojau yahoo oro matoukli kaip buvo pateikta pavyzdyje
  http://localhost/vilniusTemp/web/ bundlas yra mar/vilniusTempBundle
  db pavadinimas yra "database_name: vilniustemp" niekur nenaudojau bet vis informacija
  turetu viskas veikti ikelus ? serveri
+=======
+# VilniusTemp
+testProject
+>>>>>>> 789b4926b7076f15afef23d04d8dbf2a58699817
