@@ -1,0 +1,5 @@
+marvilnius_temp:
+    resource: "@marvilniusTempBundle/Controller/"
+    type:     annotation
+
+
